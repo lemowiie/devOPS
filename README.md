@@ -1,3 +1,2 @@
 # NovaNotes+
 
-Intro & usage
