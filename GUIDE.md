@@ -1,1 +1,1 @@
-guide v2
+Guide complet combiné
